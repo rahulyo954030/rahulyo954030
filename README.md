@@ -4,7 +4,7 @@
   
 </h1>
 <div align="center">
-<a  href="https://app.daily.dev/rahulyo954030"><img src="https://api.daily.dev/devcards/d21da9e218d24c4c86d0b048530d1ac4.png?r=j2g" width="400" alt="Rahul Singh's Dev Card"/></a>
+<a href="https://app.daily.dev/rahulyo954030"><img src="https://api.daily.dev/devcards/d21da9e218d24c4c86d0b048530d1ac4.png?r=j2g" width="400" alt="Rahul Singh's Dev Card"/></a>
 </div>
 <br>
 <h2>I learn code from:--</h2>
