@@ -2,6 +2,8 @@
 
 <h1 align="center">Hi , I'm Rahul Singh <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
   
+ <a align="center" href="#"><img align="center" src="https://readme-typing-svg.herokuapp.com?color=FFF&center=true&lines=MASAI+SCHOOL;1500%2B+Hours+of+Coding+Experience;Data+Structure+Algorithm;MERN;Full+Stack+Web+Developer;"></img></a> 
+  
 </h1>
 <div align="center">
 <a href="https://app.daily.dev/rahulyo954030"><img src="https://api.daily.dev/devcards/d21da9e218d24c4c86d0b048530d1ac4.png?r=j2g" width="400" alt="Rahul Singh's Dev Card"/></a>
@@ -9,6 +11,8 @@
 <br>
 <h2>I learn code from:--</h2>
 <a href="https://masai-school.learnworlds.com/"><img src="https://lwfiles.mycourse.app/masai-school-public/283427801ef0376bad3f197fad544f38.png" height="50" width="100"></a>
+
+
 
 <br>
 <h1>Connect to me on :-</h1>
