@@ -27,10 +27,11 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/rahulyo954030" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="rahulyo954030" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/rahul-singh-437a4b234/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/rahul-singh-437a4b234/" height="30" width="40" /></a>
-<a href="https://fb.com/rahulyo954030" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="rahulyo954030" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/rahul-singh-437a4b234/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/rahul-singh-437a4b234/" height="30" width="40" /></a>
+<a href="https://www.facebook.com/profile.php?id=100010685251789" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="rahulyo954030" height="30" width="40" /></a>
 <a href="https://instagram.com/rahulsingh954030" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="rahulsingh954030" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/https://www.youtube.com/channel/ucrzi1hhbpxc2stvdwoihhka" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/channel/ucrzi1hhbpxc2stvdwoihhka" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/https://www.youtube.com/channel/ucrzi1hhbpxc2stvdwoihhka" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www[https://fb.com/rahulyo954030
+](https://www.facebook.com/profile.php?id=100010685251789).youtube.com/channel/ucrzi1hhbpxc2stvdwoihhka" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
