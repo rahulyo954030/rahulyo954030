@@ -1,14 +1,16 @@
 
   
-</h1>
+<h1 align="center">Hi 👋, I'm Rahul Singh</h1>
+<br>
 <div align="center">
 <a href="https://app.daily.dev/rahulyo954030"><img src="https://api.daily.dev/devcards/d21da9e218d24c4c86d0b048530d1ac4.png?r=gh0" width="400" alt="Rahul Singh's Dev Card"/></a>
 </div>
 
 
-<br>
-<h1 align="center">Hi 👋, I'm Rahul Singh</h1>
+
+
 <h3 align="center">A passionate Full Stack Web developer from India</h3>
+<div align="center">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rahulyo954030&label=Profile%20views&color=0e75b6&style=flat" alt="rahulyo954030" /> </p>
 
@@ -50,3 +52,5 @@
  <hr>
  
 <!--  <a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/438ac008ceb82f741b69d655c0379f5d53daf25b586465207e0bb54b1707a6e8/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170693f757365726e616d653d69616d70616e6b616a6b2673686f775f69636f6e733d74727565266c6f63616c653d656e267468656d653d64726163756c61"><img align="center" src="https://camo.githubusercontent.com/438ac008ceb82f741b69d655c0379f5d53daf25b586465207e0bb54b1707a6e8/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170693f757365726e616d653d69616d70616e6b616a6b2673686f775f69636f6e733d74727565266c6f63616c653d656e267468656d653d64726163756c61" alt="" data-canonical-src="https://github-readme-stats.vercel.app/api?username=rahulyo954030&amp;show_icons=true&amp;locale=en&amp;theme=dracula" style="max-width: 100%;"></a> -->
+
+</div>
