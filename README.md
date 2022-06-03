@@ -2,9 +2,7 @@
   
 <h1 align="center">Hi 👋, I'm Rahul Singh</h1>
 <br>
-<div align="center">
-<a href="https://app.daily.dev/rahulyo954030"><img src="https://api.daily.dev/devcards/d21da9e218d24c4c86d0b048530d1ac4.png?r=gh0" width="400" alt="Rahul Singh's Dev Card"/></a>
-</div>
+
 
 
 
