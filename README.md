@@ -14,7 +14,7 @@
 
 - 🌱 I’m currently learning **Full Stack Web Development**
 
-- 💬 Ask me about **HTML | CSS | JavaScript | TypeScript | React | Redux | | Node.js | Express | MongoDB | DSA**
+- 💬 Ask me about **HTML | CSS | JavaScript | Ruby | TypeScript | React | Redux | | Node.js | Express | MongoDB | DSA**
 
 - 📫 How to reach me **rahulyo954030@gmail.com**
 
