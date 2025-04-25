@@ -105,8 +105,9 @@ Here are a few cool projects I've built:
 ### 🖥️ GitHub Contribution Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=rahulyo954030&theme=dracula" alt="GitHub Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rahulyo954030&theme=react-dark&area=true&hide_border=true" alt="rahulyo954030 GitHub Activity Graph" />
 </p>
+
 
 ---
 
