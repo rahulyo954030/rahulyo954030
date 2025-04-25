@@ -1,4 +1,4 @@
-<h1 align="center">Hey 👋, I'm Rahul Yadav</h1>
+<h1 align="center">Hey 👋, I'm Rahul Singh</h1>
 <h3 align="center">A passionate Full Stack Developer from India 🚀</h3>
 
 ---
