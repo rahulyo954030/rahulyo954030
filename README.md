@@ -1,118 +1,109 @@
-<h1 align="center">Hi 👋, I'm Rahul Singh</h1>
-<h3 align="center">A passionate Full Stack Web Developer from India 🇮🇳</h3>
+<h1 align="center">Hey 👋, I'm Rahul Yadav</h1>
+<h3 align="center">A passionate Full Stack Developer from India 🚀</h3>
+
+---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=rahulyo954030&label=Profile%20views&color=0e75b6&style=flat" alt="rahulyo954030" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=00A3FF&center=true&vCenter=true&width=435&lines=Full+Stack+Web+Developer;MERN+Stack+Enthusiast;React+%7C+Next.js+%7C+Tailwind+Lover;Always+Learning+New+Things+💡" alt="Typing SVG" />
 </p>
 
 ---
 
-### 👨‍💻 About Me
+### 🧑‍💻 About Me
 
-- 🔭 I’m currently working on **Real-world Full Stack Projects**
-- 🌱 I’m currently learning **DevOps, Cloud, and AI integrations**
-- 💬 Ask me about:
-  - `HTML`, `CSS`, `JavaScript`, `TypeScript`
-  - `React`, `Redux`, `Node.js`, `Express`, `MongoDB`
-  - `Ruby`, `DSA`, `MySQL`
-- ⚡ Fun fact: I love building **projects that solve real-world problems**.
+- 🔭 I’m currently working on **Full Stack Projects using MERN & Next.js**
+- 🌱 I’m learning **Cloud Computing (AWS)** and **TypeScript**
+- 💬 Ask me about **React, Next.js, Tailwind, Node, MongoDB**
+- 📫 Reach me: **rahulyo954030@gmail.com**
+- 🧠 Fun Fact: *I debug my dreams in sleep* 😴👨‍💻
 
 ---
 
-### 🌐 Connect with Me
+### 🛠️ Tech Stack
 
-<p align="left">
-  <a href="https://twitter.com/rahulyo954030" target="blank">
-    <img src="https://img.shields.io/twitter/follow/rahulyo954030?logo=twitter&style=for-the-badge" alt="Twitter" />
-  </a>
-  <a href="https://www.linkedin.com/in/rahul-singh-437a4b234/" target="blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&style=for-the-badge" />
-  </a>
-  <a href="https://www.facebook.com/profile.php?id=100010685251789" target="blank">
-    <img src="https://img.shields.io/badge/-Facebook-1877F2?logo=facebook&style=for-the-badge&logoColor=white" />
-  </a>
-  <a href="https://instagram.com/rahulsingh954030" target="blank">
-    <img src="https://img.shields.io/badge/-Instagram-E4405F?logo=instagram&style=for-the-badge&logoColor=white" />
-  </a>
-  <a href="https://www.youtube.com/channel/UCrzi1hHbpXC2STVDwoihhKA" target="blank">
-    <img src="https://img.shields.io/badge/-YouTube-FF0000?logo=youtube&style=for-the-badge&logoColor=white" />
-  </a>
-</p>
+#### Frontend:
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js)
+![TailwindCSS](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white)
+
+#### Backend:
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+
+#### Tools & Platforms:
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
 
 ---
 
-### 🛠️ Skills & Tools
-
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="Redux" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="Express" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/7/73/Ruby_logo.svg" alt="Ruby" width="40" height="40"/>
-</p>
-
----
-
-### 📊 GitHub Stats
+### 🔥 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rahulyo954030&show_icons=true&locale=en&theme=radical" alt="rahulyo954030 GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=rahulyo954030&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github" alt="GitHub Stats" />
 </p>
-
----
-
-### 🔥 GitHub Streak
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rahulyo954030&theme=radical" alt="rahulyo954030 streak" />
+  <img src="https://streak-stats.demolab.com?user=rahulyo954030&theme=dark&hide_border=true" alt="GitHub Streak" />
 </p>
 
 ---
 
-### 📈 Top Languages
+### 📈 Contribution Graph
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=rahulyo954030&show_icons=true&locale=en&layout=compact&theme=radical" alt="rahulyo954030 Top Languages" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rahulyo954030&theme=react-dark&area=true&hide_border=true" alt="GitHub Activity Graph" />
 </p>
 
 ---
 
-### ⚡ Recent GitHub Activity
-
-<!--START_SECTION:activity-->
-<!--END_SECTION:activity-->
-
----
-
-### 🚀 Projects Showcase
-
-Here are a few cool projects I've built:
-
-- 🔗 [Project 1 – MERN Stack Web App](#)
-- 🔗 [Project 2 – React Dashboard](#)
-- 🔗 [Project 3 – Node.js + MongoDB API](#)
-
-> *(Replace these with actual links to your GitHub repositories or live projects)*
-
----
-
-### 🖥️ GitHub Contribution Graph
+### 🌍 Connect With Me
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rahulyo954030&theme=react-dark&area=true&hide_border=true" alt="rahulyo954030 GitHub Activity Graph" />
+  <a href="https://www.linkedin.com/in/rahulyo954030/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" />
+  </a>
+  <a href="mailto:rahulyo954030@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail" />
+  </a>
+  <a href="https://github.com/rahulyo954030">
+    <img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github" />
+  </a>
 </p>
 
+---
+
+### 📌 Quote That Drives Me
+
+> “First, solve the problem. Then, write the code.” – John Johnson
 
 ---
 
-> 📫 **Reach out** if you’d like to collaborate, hire, or discuss ideas: `rahulyo954030@gmail.com`
+### 🚀 Projects to Check Out
+
+- [📱 Portfolio Website](https://github.com/rahulyo954030/your-portfolio) – Clean, responsive & modern
+- [🌐 Blog Platform](https://github.com/rahulyo954030/dev-blog) – Dev blog system with Next.js
+- [🧠 AI Chatbot](https://github.com/rahulyo954030/ai-chatbot) – Powered by OpenAI API
 
 ---
 
-_Thanks for visiting my profile! ⭐️_
+### 💡 GitHub Profile Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=rahulyo954030&theme=gruvbox&no-frame=true&row=1&column=7" />
+</p>
+
+---
+
+### 📊 Most Used Languages
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rahulyo954030&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+<!-- Feel free to remove sections that don't fit your style -->
+
