@@ -1,51 +1,117 @@
-
-  
 <h1 align="center">Hi 👋, I'm Rahul Singh</h1>
-<br>
+<h3 align="center">A passionate Full Stack Web Developer from India 🇮🇳</h3>
 
-<h3 align="center">A passionate Full Stack Web developer from India</h3>
-<div align="center">
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rahulyo954030&label=Profile%20views&color=0e75b6&style=flat" alt="rahulyo954030" /> </p>
-
-<p > <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rahulyo954030" alt="rahulyo954030" /></a> </p>
-
-<p > <a href="https://twitter.com/rahulyo954030" target="blank"><img src="https://img.shields.io/twitter/follow/rahulyo954030?logo=twitter&style=for-the-badge" alt="rahulyo954030" /></a> </p>
-
-- 🌱 I’m currently learning **Full Stack Web Development**
-
-- 💬 Ask me about **HTML | CSS | JavaScript | Ruby | TypeScript | React | Redux | | Node.js | Express | MongoDB | DSA**
-
-- 📫 How to reach me **rahulyo954030@gmail.com**
-
-<h3>Connect with me:</h3>
-<p>
-<a href="https://twitter.com/rahulyo954030" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="rahulyo954030" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/rahul-singh-437a4b234/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/rahul-singh-437a4b234/" height="30" width="40" /></a>
-<a href="https://www.facebook.com/profile.php?id=100010685251789" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="rahulyo954030" height="30" width="40" /></a>
-<a href="https://instagram.com/rahulsingh954030" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="rahulsingh954030" height="30" width="40" /></a>
-<a href="https://www.youtube.com/channel/UCrzi1hHbpXC2STVDwoihhKA" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www[https://fb.com/rahulyo954030
-](https://www.facebook.com/profile.php?id=100010685251789).youtube.com/channel/ucrzi1hhbpxc2stvdwoihhka" height="30" width="40" /></a>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=rahulyo954030&label=Profile%20views&color=0e75b6&style=flat" alt="rahulyo954030" />
 </p>
 
-<h3>Languages and Tools:</h3>
-<p > <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> 
-<a href="https://www.ruby-lang.org/en/" target="_blank" rel="noreferrer"> <img src="https://e7.pngegg.com/pngimages/405/943/png-clipart-ruby-on-rails-web-framework-computer-programming-programming-language-ruby-ruby-on-rails-ruby.png" alt="ruby" width="40" height="40"/> </a>   
+---
+
+### 👨‍💻 About Me
+
+- 🔭 I’m currently working on **Real-world Full Stack Projects**
+- 🌱 I’m currently learning **DevOps, Cloud, and AI integrations**
+- 💬 Ask me about:
+  - `HTML`, `CSS`, `JavaScript`, `TypeScript`
+  - `React`, `Redux`, `Node.js`, `Express`, `MongoDB`
+  - `Ruby`, `DSA`, `MySQL`
+- ⚡ Fun fact: I love building **projects that solve real-world problems**.
+
+---
+
+### 🌐 Connect with Me
+
+<p align="left">
+  <a href="https://twitter.com/rahulyo954030" target="blank">
+    <img src="https://img.shields.io/twitter/follow/rahulyo954030?logo=twitter&style=for-the-badge" alt="Twitter" />
+  </a>
+  <a href="https://www.linkedin.com/in/rahul-singh-437a4b234/" target="blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&style=for-the-badge" />
+  </a>
+  <a href="https://www.facebook.com/profile.php?id=100010685251789" target="blank">
+    <img src="https://img.shields.io/badge/-Facebook-1877F2?logo=facebook&style=for-the-badge&logoColor=white" />
+  </a>
+  <a href="https://instagram.com/rahulsingh954030" target="blank">
+    <img src="https://img.shields.io/badge/-Instagram-E4405F?logo=instagram&style=for-the-badge&logoColor=white" />
+  </a>
+  <a href="https://www.youtube.com/channel/UCrzi1hHbpXC2STVDwoihhKA" target="blank">
+    <img src="https://img.shields.io/badge/-YouTube-FF0000?logo=youtube&style=for-the-badge&logoColor=white" />
+  </a>
 </p>
 
-<p><img  src="https://github-readme-stats.vercel.app/api/top-langs?username=rahulyo954030&show_icons=true&locale=en&layout=compact" alt="rahulyo954030" /></p>
+---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rahulyo954030&show_icons=true&locale=en" alt="rahulyo954030" /></p>
+### 🛠️ Skills & Tools
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rahulyo954030&" alt="rahulyo954030" />
-  <br/>
-  <br/>
-  <hr/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40" style="max-width: 100%;"> </a> <a href="https://www.mysql.com/" rel="nofollow"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40" style="max-width: 100%;"> </a> <a href="data:image/png;base64,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" alt="nextjs" width="40" height="40" data-canonical-src="https://cdn.worldvectorlogo.com/logos/nextjs-3.svg" style="max-width: 100%;"> </a> <a href="https://nodejs.org" rel="nofollow"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40" style="max-width: 100%;"> </a> <a href="https://postman.com" rel="nofollow"> <img src="https://camo.githubusercontent.com/93b32389bf746009ca2370de7fe06c3b5146f4c99d99df65994f9ced0ba41685/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f676574706f73746d616e2f676574706f73746d616e2d69636f6e2e737667" alt="postman" width="40" height="40" data-canonical-src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" style="max-width: 100%;"> </a> <a href="https://www.python.org" rel="nofollow"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40" style="max-width: 100%;"> </a> <a href="https://reactjs.org/" rel="nofollow"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40" style="max-width: 100%;"> </a> <a href="https://redux.js.org" rel="nofollow"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40" style="max-width: 100%;"> </a> <a href="https://sass-lang.com" rel="nofollow"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40" style="max-width: 100%;"> </a> <a href="https://tailwindcss.com/" rel="nofollow"> <img src="https://camo.githubusercontent.com/5734d0669fe22ce04a1cb989a156cd32c379875f6bca56d5210c9432824856d9/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f7461696c77696e646373732f7461696c77696e646373732d69636f6e2e737667" alt="tailwind" width="40" height="40" data-canonical-src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" style="max-width: 100%;"> </a><a href="https://webpack.js.org" rel="nofollow"> <img src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/webpack/webpack-original-wordmark.svg" alt="webpack" width="40" height="40" style="max-width: 100%;"> </a>
- <a href="https://code.visualstudio.com" rel="nofollow"> <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" alt="webpack" width="40" height="40" style="max-width: 100%;"> </a>
- <a href="https://slack.com/intl/en-in/" rel="nofollow"> <img src="https://github.com/devicons/devicon/blob/master/icons/slack/slack-original.svg" alt="webpack" width="40" height="40" style="max-width: 100%;"> </a>
- <hr>
- 
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="Redux" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="Express" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/7/73/Ruby_logo.svg" alt="Ruby" width="40" height="40"/>
+</p>
 
+---
 
-</div>
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=rahulyo954030&show_icons=true&locale=en&theme=radical" alt="rahulyo954030 GitHub Stats" />
+</p>
+
+---
+
+### 🔥 GitHub Streak
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rahulyo954030&theme=radical" alt="rahulyo954030 streak" />
+</p>
+
+---
+
+### 📈 Top Languages
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=rahulyo954030&show_icons=true&locale=en&layout=compact&theme=radical" alt="rahulyo954030 Top Languages" />
+</p>
+
+---
+
+### ⚡ Recent GitHub Activity
+
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
+
+---
+
+### 🚀 Projects Showcase
+
+Here are a few cool projects I've built:
+
+- 🔗 [Project 1 – MERN Stack Web App](#)
+- 🔗 [Project 2 – React Dashboard](#)
+- 🔗 [Project 3 – Node.js + MongoDB API](#)
+
+> *(Replace these with actual links to your GitHub repositories or live projects)*
+
+---
+
+### 🖥️ GitHub Contribution Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=rahulyo954030&theme=dracula" alt="GitHub Activity Graph" />
+</p>
+
+---
+
+> 📫 **Reach out** if you’d like to collaborate, hire, or discuss ideas: `rahulyo954030@gmail.com`
+
+---
+
+_Thanks for visiting my profile! ⭐️_
