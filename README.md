@@ -70,8 +70,9 @@
 ### 🐍 Contribution Snake (Animated)
 
 <p align="center">
-  <img src="https://i.imgur.com/dfwsCJS.png" alt="3D Contributions" />
+  <img src="https://i.imgur.com/BZOHV8M.png" alt="Futuristic Contribution Wave" />
 </p>
+
 
 
 
