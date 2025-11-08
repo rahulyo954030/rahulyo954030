@@ -67,13 +67,6 @@
 
 ---
 
-### 🐍 Contribution Snake (Animated)
-
-<p align="center">
-  <img src="https://i.imgur.com/BZOHV8M.png" alt="Futuristic Contribution Wave" />
-</p>
-
-
 
 
 ---
