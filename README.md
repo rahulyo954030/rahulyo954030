@@ -1,41 +1,35 @@
-<h1 align="center">Hi there 👋, I'm Rahul Singh</h1>
-<h3 align="center">A Passionate Full Stack Developer from India 🚀</h3>
+<h1 align="center">👋 Hey, I'm <span style="color:#00A3FF">Rahul Singh</span></h1>
+<h3 align="center">Full Stack Developer (MERN) | India 🚀</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00A3FF&center=true&vCenter=true&width=440&lines=Full+Stack+Web+Developer;MERN+Stack+Enthusiast;React+%7C+Next.js+%7C+Tailwind+Lover;Building+scalable+web+apps+💻;Always+learning+new+things+💡" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00A3FF&center=true&vCenter=true&width=460&lines=Full+Stack+Web+Developer;MERN+Stack+Enthusiast;React+%7C+Next.js+%7C+Tailwind+CSS;Building+Scalable+Digital+Experiences;Always+Learning+Something+New" />
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=rahulyo954030&label=Profile%20Views&color=00A3FF&style=flat" />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=rahulyo954030" />
+  <img src="https://img.shields.io/github/followers/rahulyo954030?style=social" />
+  <img src="https://img.shields.io/github/stars/rahulyo954030?style=social" />
 </p>
 
 ---
 
 ### 🧑‍💻 About Me
-- 🔭 Currently working on **MERN stack** and **Next.js** projects
-- 🌱 Learning **AWS Cloud**, **TypeScript**, and advanced architecture
-- 💬 Ask me about **React, Node.js, MongoDB, Tailwind**
-- 📫 Reach me at: `rahulyo954030@gmail.com`
-- 🧠 Fun Fact: *I love turning coffee ☕ into code 💻*
+- 🔭 Working on **MERN** & **Next.js**
+- 🌱 Learning **TypeScript**, **AWS Cloud**, & **System Architecture**
+- 🤝 Open to frontend + backend collaborations
+- 💬 Ask me about **React, Node.js, MongoDB, Tailwind CSS**
+- 📧 Reach me at: `rahulyo954030@gmail.com`
+- ⚡ Fun Fact: I turn coffee ☕ into clean code 💻
 
 ---
 
 ### 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js" />
-  <img src="https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/Express.js-black?style=for-the-badge&logo=express&logoColor=white" />
-  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github" />
-  <img src="https://img.shields.io/badge/Vercel-000?style=for-the-badge&logo=vercel&logoColor=white" />
-  <img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" />
+  <img src="https://skillicons.dev/icons?i=react,next,tailwind,js,ts,redux,bootstrap" /><br/>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,postgresql" /><br/>
+  <img src="https://skillicons.dev/icons?i=git,github,figma,vercel,netlify" />
 </p>
 
 ---
@@ -43,19 +37,16 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rahulyo954030&show_icons=true&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=rahulyo954030&theme=tokyonight&hide_border=true" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=rahulyo954030&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="160" src="https://streak-stats.demolab.com?user=rahulyo954030&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
 
-### 📈 Contribution Graph
-
+### 🔝 Most Used Languages
+ 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rahulyo954030&theme=react-dark&area=true&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rahulyo954030&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
@@ -68,26 +59,10 @@
 
 ---
 
-### 🔝 Most Used Languages
+### 🛰️ Contribution Graph
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rahulyo954030&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
-### 🌍 Let’s Connect
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/rahulyo954030/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" />
-  </a>
-  <a href="mailto:rahulyo954030@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail" />
-  </a>
-  <a href="https://github.com/rahulyo954030">
-    <img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github" />
-  </a>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rahulyo954030&theme=react-dark&area=true&hide_border=true" />
 </p>
 
 ---
@@ -95,17 +70,33 @@
 ### 🚀 Featured Projects
 
 <p align="center">
-  🔹 <a href="https://github.com/rahulyo954030/portfolio">Portfolio Website</a> <br/>
-  🔹 <a href="https://github.com/rahulyo954030/ai-chatbot">AI Chatbot</a> <br/>
-  🔹 <a href="https://github.com/rahulyo954030/dev-blog">Dev Blog Platform</a>
+  🔹 <a href="https://github.com/rahulyo954030/portfolio">Personal Portfolio Website</a><br/>
+  🔹 <a href="https://github.com/rahulyo954030/ai-chatbot">AI Powered Chatbot</a><br/>
+  🔹 <a href="https://github.com/rahulyo954030/dev-blog">Developer Blog Platform</a>
 </p>
 
 ---
 
-### 💡 Quote I Live By
+### 🌐 Connect With Me
 
 <p align="center">
-  <em>“Code is like humor. When you have to explain it, it’s bad.”</em> – Cory House
+  <a href="https://www.linkedin.com/in/rahulyo954030/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?&style=flat&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:rahulyo954030@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?&style=flat&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://github.com/rahulyo954030">
+    <img src="https://img.shields.io/badge/GitHub-181717?&style=flat&logo=github&logoColor=white" />
+  </a>
+</p>
+
+---
+
+### 🧠 Quote I Live By
+
+<p align="center">
+  <em>“Code is like humor. When you have to explain it, it’s bad.” – Cory House</em>
 </p>
 
 ---
