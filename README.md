@@ -15,12 +15,12 @@
 ---
 
 ### 🧑‍💻 About Me
-- 🔭 Working on **MERN** & **Next.js**
-- 🌱 Learning **TypeScript**, **AWS Cloud**, & **System Architecture**
-- 🤝 Open to frontend + backend collaborations
+- 🔭 Working with **MERN** & **Next.js**
+- 🌱 Learning **AWS**, **TypeScript**, **Clean Architecture**
+- 🤝 Open to frontend/backend collaborations
 - 💬 Ask me about **React, Node.js, MongoDB, Tailwind CSS**
 - 📧 Reach me at: `rahulyo954030@gmail.com`
-- ⚡ Fun Fact: I turn coffee ☕ into clean code 💻
+- ⚡ *Powered by coffee ☕ and keyboard clicks ⌨️*
 
 ---
 
@@ -59,10 +59,18 @@
 
 ---
 
-### 🛰️ Contribution Graph
+### 🛰️ Contribution Graph (WORKING ✅)
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rahulyo954030&theme=react-dark&area=true&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rahulyo954030&theme=react-dark&area=true&hide_border=true&color=00A3FF&line=00A3FF" />
+</p>
+
+---
+
+### 🐍 Contribution Snake (Animated)
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/rahulyo954030/rahulyo954030/output/github-contribution-grid-snake-dark.svg" />
 </p>
 
 ---
